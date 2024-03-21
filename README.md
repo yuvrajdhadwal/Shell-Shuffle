@@ -15,4 +15,4 @@ This short project took me about half of Spring Break to complete. The main moti
 - AccountBank object implemented as a Linear Probing Hash Map
 - Shotgun object implemented as an Array-Backed Queue
 - ItemRack object implemented as an Array of Linked Lists
-- Polymorphism, Abstract Classes, Inheritance, Input/Output, and many other Object Oriented Programming topics.
+- Polymorphism, Abstract Classes, Inheritance, Input/Output, Method Overloading and Overriding, and many other Object Oriented Programming topics.
