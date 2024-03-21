@@ -4,8 +4,9 @@ A command-prompt user input game based on Russian Roulette with the inclusion of
 Based off https://store.steampowered.com/app/2835570/Buckshot_Roulette/
 
 # How to play?
-1. Compile and Run Main.java
-2. Follow directions provided by game
+1. Download the full project
+2. Compile and Run Main.java
+3. Follow directions provided by game
 
 # Motivation for the Creation of the Game
 This short project took me about half of Spring Break to complete. The main motivation behind this project was to put the skills I had learned in CS 1331 Object-Oriented Programming and CS 1332 Data Structures and Algorithms to the test. In class, we learned theory and minimal viable products and I wanted to implement everything I learned in my first year of university into a single project.
