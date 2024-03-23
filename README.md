@@ -1,4 +1,4 @@
-# Shotgun-Showdown
+# Shell Shuffle
 A command-prompt user input game based on Russian Roulette with the inclusion of a few items to spice up the game. I saw my friends playing a game called Buckshot Roulette. While watching them play, I realized that I could make the same game with my current programming knowledge. Ever since then I have been itching to make the game myself (all the core elements), and now that I am on Spring Break I finally have the time to create this game. Have fun playing it!
 
 Based off https://store.steampowered.com/app/2835570/Buckshot_Roulette/
